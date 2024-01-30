@@ -1,4 +1,4 @@
-👋 Hi! I'm Han-Ling Hsu (Sam), a recent MSc Data Science graduate from the University of Sheffield. 
+👋 Hi! I'm Han-Ling Hsu, a recent MSc Data Science graduate from the University of Sheffield. 
 Skilled in Python, R, SQL, and data visualization tools, I've applied my expertise as a Process Analyst, enhancing business processes and decision-making. 
 Now seeking opportunities as a Junior Data Scientist, I'm excited to bring my analytical skills to new challenges. 
 
