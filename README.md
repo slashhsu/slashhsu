@@ -1,6 +1,6 @@
 👋 Hi! I'm Han-Ling Hsu, a recent MSc Data Science graduate from the University of Sheffield. 
 Skilled in Python, R, SQL, Data Modelling and Data Visualization tools, I've applied my expertise as a Data Analyst, enhancing business processes and decision-making. 
-Now seeking opportunities as a Data Analyst, I'm excited to bring my analytical skills to new challenges. 
+Now seeking opportunities in data related field, I'm excited to bring my analytical skills to new challenges. 
 
 Check out my GitHub for projects and connect with me on Linkedin. 
 Thank you for visiting! ✨💖🧡💛💚💙💜
