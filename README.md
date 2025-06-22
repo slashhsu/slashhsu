@@ -3,7 +3,8 @@ With a strong background in leveraging data to optimize business processes and d
 I thrive on uncovering insights that fuel growth. 
 I'm eager to apply my analytical skills to new challenges and create data-driven solutions that make an impact. 
 
-Check out my GitHub for projects and connect with me on Linkedin. 
+I’m also passionate about basketball data and have worked on several projects based on Yahoo Fantasy Basketball.
+Check out my GitHub for projects and connect with me on Linkedin!
 Thank you for visiting! ✨💖🧡💛💚💙💜
 
 • LinkedIn: https://www.linkedin.com/in/han-ling-hsu-20b738216/
